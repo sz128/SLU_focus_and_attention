@@ -1,0 +1,4 @@
+data/ms_rnn_atis/atis.fold3/train
+data/ms_rnn_atis/atis.fold3/valid
+data/ms_rnn_atis/atis.fold3/test
+exp
